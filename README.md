@@ -9,6 +9,6 @@ Body
 <body>
 Natalie Castro
 <br />
-<img src="logo.jpg" height="150"/>
+<img src="logo.jpg" height="200"/>
 </body>
 </html>
