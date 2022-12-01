@@ -1,5 +1,7 @@
 <html>
-  <head><title>How to Start A Journal</title></head>
+  <head>
+    <title>How to Start A Journal</title>
+  </head>
 <style>
 Body 
 {Background-color:#92A69B;}
