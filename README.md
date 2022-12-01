@@ -1,5 +1,5 @@
 <html>
-<head>
+  <head><title>How to Start A Journal</title></head>
 <style>
 Body 
 {Background-color:#92A69B;}
@@ -7,8 +7,8 @@ Body
 <link rel="stylesheet" href="style.css">
 
 <body>
-Natalie Castro
+  <center><img src="bearl.jpg" height="200"/></center>
 <br />
-<img src="logo.jpg" height="200"/>
+  <h1>This is going to be centered</h1>
 </body>
 </html>
