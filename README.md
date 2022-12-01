@@ -9,8 +9,6 @@ Body
 <body>
   <center><img src="logo.jpg" height="200"/></center>
 <br />
-  <h1> {
-    color: #ffffff
-    } This is going to be centered</h1>
+  <h1>This is going to be centered</h1>
 </body>
 </html>
