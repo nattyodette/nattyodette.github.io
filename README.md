@@ -7,7 +7,7 @@ Body
 <link rel="stylesheet" href="style.css">
 
 <body>
-  <center><img src="bearl.jpg" height="200"/></center>
+  <center><img src="logo.jpg" height="200"/></center>
 <br />
   <h1>This is going to be centered</h1>
 </body>
