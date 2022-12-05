@@ -17,7 +17,7 @@ Body
 <hr class="gls-divider-small">
 <h5 align="center">Have you ever wanted to start writing all your thoughts and ideas down on a notebook? Here's a guide on how to do that!</h5>
     <h1 align="center">Things You'll Need</h1>
-  <UL>
-    <LI>A Notebook</li>
-    <LI>A Pencil</li>
+<ul>
+  <li>A Notebook</li>
+  <li>A pencil</li>
     </ul>
