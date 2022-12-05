@@ -20,4 +20,5 @@ Body
 <p style="background-color: #FCD1FF"><ul>
     <li><span>A Notebook</span></li>
     <li><span>A Pencil</span></li>
-    </ul></p>
+    </ul>
+    </p>
