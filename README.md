@@ -1,6 +1,6 @@
 <html>
   <head>
-    Title: How to Start a Journal
+    <font size="50"> Title: How to Start a Journal
   </head>
 <style>
 Body 
