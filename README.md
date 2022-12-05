@@ -16,3 +16,4 @@ Body
    <hr class="gls-divider-small">
     <h4 align="center">Assembly time: 5-10 minutes</h4>
 <hr class="gls-divider-small">
+<h5 align="center">Have you ever wanted to start writing all your thoughts and ideas down on a notebook? Here's a guide on how to do that!</h5>
