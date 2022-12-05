@@ -15,3 +15,4 @@ Body
 <h3 align="center">An Instruction Challenge For JOUR108</h3>
    <hr class="gls-divider-small">
     <h4 align="center">Assembly time: 5-10 minutes</h4>
+<hr class="gls-divider-small">
