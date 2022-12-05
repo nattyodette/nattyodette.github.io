@@ -14,4 +14,6 @@ Body
   <h1 align="center">How to Start A Journal</h1>
 <h3 align="center">An Instruction Challenge For JOUR108</h3>
    <hr class="gls-divider-small">
- 
+ <p align="center"
+    //Assembly time: 5-10 minutes
+    </p>
