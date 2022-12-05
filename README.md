@@ -21,5 +21,3 @@ Body
     <LI>A Notebook</li>
     <LI>A Pencil</li>
     </ul>
-    </li>
-  </ul>
