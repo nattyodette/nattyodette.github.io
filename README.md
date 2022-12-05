@@ -1,6 +1,6 @@
 <html>
   <head>
-    Title: How to Start a Journal
+   <Title: How to Start a Journal/>
   </head>
 <style>
 Body 
