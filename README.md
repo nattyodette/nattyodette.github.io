@@ -5,7 +5,7 @@
 <style>
 Body 
 {Background-color:#92A69B;}
-{Font-color:#ffffff;}
+{text-color:#ffffff;}
 </style>
 <link rel="stylesheet" href="style.css">
 
