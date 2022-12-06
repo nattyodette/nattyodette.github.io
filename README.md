@@ -38,8 +38,8 @@ Body
     <li>Time Yourself.</li>
     <body> Try setting aside a discrete amount of time to write in your journal. Set a timer for 5 to 15 minutes, and then let yourself go. The "deadline" of the ticking clock may help motivate you to get writing. Don't worry about making it perfect! Simply write down everything that's on your mind. </body>
 <body>
-      <iframe width="560" height="315"
+<iframe width="560" height="315"
 src="https://www.youtube.com/watch?v=Lh7hfUMvzIA">
 </iframe>
-      </body>           
-      </html>
+</body>           
+     
