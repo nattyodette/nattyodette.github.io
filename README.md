@@ -30,7 +30,7 @@ Body
     </p>
   <hr class="gls-divider-small">
   <ol type="1"> 
-    <li>Write the first entry.</li>
+    <mark><li>Write the first entry.</li><This section of the paragraph is going to be white.</mark>
     <body> The most important step of starting a journal is actually setting down the first entry. The notebook, the decoration, and the security are all just ways of making the journal feel like a safe space for you to write. Think about the sort of journal that you keep. </body>
     <li>Date your entry.</li>
     <body> For a slightly more involved record, write the time of day (morning, afternoon, night), your mood, and/or your location. Log the date at the top of the page or the top of each entry. </body>
