@@ -17,7 +17,13 @@ Body
 <hr class="gls-divider-small">
 <h5 align="center">Have you ever wanted to start writing all your thoughts and ideas down on a notebook? Here's a guide on how to do that!</h5>
     <h1 align="center">Things You'll Need</h1>
-<p style="background-color: #FCD1FF"><ul>
+<p style="background-color: #FCD1FF">
+    <ul>
+<style>
+  .div-border{border:1px soild #FCD1FF;} 
+      </style>
+      <div class="div border">
+       <p>
     <li><span>A Notebook</span></li>
     <li><span>A Pencil</span></li>
     </ul>
@@ -29,3 +35,4 @@ Body
     <li>Get into the flow of writing.</li>
     <li> Think before you write.</li>
     <li>Time Yourself.</li>
+    </div> 
