@@ -26,7 +26,7 @@ Body
       <div class="div border">
        <p>
     <li><span>A Notebook</span></li>
-    <li><span>A Pencil</span></li></ul>
+    <li><span>A Pencil</span></li>
     </p>
   <hr class="gls-divider-small">
   <ol type="1"> 
