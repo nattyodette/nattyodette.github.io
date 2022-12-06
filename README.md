@@ -37,5 +37,7 @@ Body
     <body> If you're having trouble finding your flow, try taking a few minutes to quietly reflect on what you're feeling. The act of writing can help you tease out these feelings. However, it can be hard to write until you have a clear idea of where to begin. </body>
     <li>Time Yourself.</li>
     <body> Try setting aside a discrete amount of time to write in your journal. Set a timer for 5 to 15 minutes, and then let yourself go. The "deadline" of the ticking clock may help motivate you to get writing. Don't worry about making it perfect! Simply write down everything that's on your mind. </body>
-     <iframe width="560" height="315" https://www.youtube.com/watch?v=Lh7hfUMvzIA
+     <iframe width="560" height="315" 
+             src="https://www.youtube.com/watch?v=Lh7hfUMvzIA">
+      </iframe>
              
