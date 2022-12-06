@@ -17,7 +17,7 @@ Body
 <hr class="gls-divider-small">
 <h5 align="center">Have you ever wanted to start writing all your thoughts and ideas down on a notebook? Here's a guide on how to do that!</h5>
     <h1 align="center">Things You'll Need</h1>
-    "https://live.staticflickr.com/8799/17054622532_64345f500f_c.jpg"
+    <center><img src="https://live.staticflickr.com/8799/17054622532_64345f500f_c.jpg" height="400"
     <p style="background-color: #FCD1FF">
     <ul>
 <style>
