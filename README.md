@@ -20,9 +20,6 @@ Body
     <center><img src="https://live.staticflickr.com/8799/17054622532_64345f500f_c.jpg" height="200"
     <p style="background-color: #FCD1FF">
     <ul>
-<style>
-  .div-border{border:1px soild #FCD1FF;} 
-      </style>
       <div class="div border">
        <p>
     <li><span> A Notebook</span></li>
