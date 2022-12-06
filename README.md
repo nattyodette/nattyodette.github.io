@@ -22,3 +22,10 @@ Body
     <li><span>A Pencil</span></li>
     </ul>
     </p>
+  <hr class="gls-divider-small">
+  <ol type="1"> 
+    <li>Write the first entry.</li>
+    <li>Date your entry.</li>
+    <li>Get into the flow of writing.</li>
+    <li> Think before you write.</li>
+    <li>Time Yourself.</li>
